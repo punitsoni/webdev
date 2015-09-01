@@ -1,0 +1,10 @@
+#gamearea {
+   width: 100%;
+   text-align:center;
+}
+
+#canvas {
+	border-style: solid;
+    border-width: 2px;
+	display: inline;
+}
